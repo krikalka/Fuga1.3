@@ -1,0 +1,1 @@
+X=MsgBox("This programm has been deleted u computer!!!",0+16,"warning")

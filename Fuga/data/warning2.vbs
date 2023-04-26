@@ -1,0 +1,1 @@
+X=MsgBox("This not cool program",0+16,"warning")

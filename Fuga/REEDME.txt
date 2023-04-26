@@ -1,0 +1,6 @@
+virus Fuga 1.3 by kryyaa
+safer.exe - closed proces virus, this is "Anti-virus" for fuga
+
+!!AFTER RESTARTING, YOU WILL NOT BE ABLE TO TURN ON THE COMPUTER!!
+
+password: Fuga
